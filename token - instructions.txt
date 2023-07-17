@@ -1,0 +1,7 @@
+﻿Follow these steps
+
+https://www.writebots.com/discord-bot-token/
+
+also don't forget to tick all the Privileged Gateway Intents on the bot tab 
+
+Post your token in this file and delete the rest
