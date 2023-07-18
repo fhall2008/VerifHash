@@ -1,0 +1,14 @@
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/bin/Debug/net6.0/Discord Data.deps.json
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/bin/Debug/net6.0/Discord Data.runtimeconfig.json
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/bin/Debug/net6.0/Discord Data.dll
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/bin/Debug/net6.0/Discord Data.pdb
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/Discord Data.csproj.AssemblyReference.cache
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/Discord Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/Discord Data.AssemblyInfoInputs.cache
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/Discord Data.AssemblyInfo.cs
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/Discord Data.csproj.CoreCompileInputs.cache
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/Discord Data.dll
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/refint/Discord Data.dll
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/Discord Data.pdb
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/Discord Data.genruntimeconfig.cache
+/home/damien24porter/Documents/DiscordBot-master/Discord Data/obj/Debug/net6.0/ref/Discord Data.dll

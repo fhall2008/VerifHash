@@ -1,0 +1,135 @@
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.csproj.AssemblyReference.cache
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.GeneratedMSBuildEditorConfig.editorconfig
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.AssemblyInfoInputs.cache
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.AssemblyInfo.cs
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.csproj.CoreCompileInputs.cache
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord New
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord New.deps.json
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord New.runtimeconfig.json
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord New.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord New.pdb
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.dll
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/refint/Discord New.dll
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.pdb
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.genruntimeconfig.cache
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/ref/Discord New.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord.Net.Commands.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord.Net.Core.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord.Net.Interactions.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord.Net.Rest.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord.Net.Webhook.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Discord.Net.WebSocket.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/System.Interactive.Async.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/System.Linq.Async.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/System.Reactive.dll
+/home/damien24porter/Documents/Discord New/obj/Debug/net7.0/Discord New.csproj.CopyComplete
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Humanizer.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/System.CodeDom.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Npgsql.dll
+/home/damien24porter/Documents/Discord New/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord New
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord New.deps.json
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord New.runtimeconfig.json
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord New.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord New.pdb
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord.Net.Commands.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord.Net.Core.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord.Net.Interactions.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord.Net.Rest.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord.Net.Webhook.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Discord.Net.WebSocket.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Humanizer.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.Caching.Memory.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.Logging.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Npgsql.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/System.CodeDom.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/System.Interactive.Async.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/System.Linq.Async.dll
+/home/findlay42hall/Documents/DiscordNew/bin/Debug/net7.0/System.Reactive.dll
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.csproj.AssemblyReference.cache
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.GeneratedMSBuildEditorConfig.editorconfig
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.AssemblyInfoInputs.cache
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.AssemblyInfo.cs
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.csproj.CoreCompileInputs.cache
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.csproj.CopyComplete
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.dll
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/refint/Discord New.dll
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.pdb
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/Discord New.genruntimeconfig.cache
+/home/findlay42hall/Documents/DiscordNew/obj/Debug/net7.0/ref/Discord New.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord New.exe
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord New.deps.json
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord New.runtimeconfig.json
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord New.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord New.pdb
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord.Net.Commands.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord.Net.Core.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord.Net.Interactions.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord.Net.Rest.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord.Net.Webhook.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Discord.Net.WebSocket.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Humanizer.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Npgsql.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\System.Interactive.Async.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\System.Linq.Async.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.csproj.AssemblyReference.cache
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.AssemblyInfoInputs.cache
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.AssemblyInfo.cs
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.csproj.CoreCompileInputs.cache
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.csproj.CopyComplete
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\refint\Discord New.dll
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.pdb
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\Discord New.genruntimeconfig.cache
+C:\Users\damo6\Downloads\camper-archives\camper-archives\findlay42hall\home\findlay42hall\Documents\DiscordNew\obj\Debug\net7.0\ref\Discord New.dll
